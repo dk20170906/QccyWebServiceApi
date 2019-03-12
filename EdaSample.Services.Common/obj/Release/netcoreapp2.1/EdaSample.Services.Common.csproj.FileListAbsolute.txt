@@ -1,0 +1,16 @@
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.csprojAssemblyReference.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.csproj.CoreCompileInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.AssemblyInfoInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.AssemblyInfo.cs
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\EdaSample.Services.Common.deps.json
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\EdaSample.Services.Common.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\EdaSample.Services.Common.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\EdaSample.Common.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\EdaSample.Common.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\bin\Release\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.csproj.CopyComplete
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Services.Common\obj\Release\netcoreapp2.1\EdaSample.Services.Common.pdb

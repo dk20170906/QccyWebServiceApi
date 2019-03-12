@@ -1,0 +1,14 @@
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.csprojAssemblyReference.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.AssemblyInfo.cs
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.deps.json
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.runtimeconfig.json
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.runtimeconfig.dev.json
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Common.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\bin\Release\netcoreapp2.1\EdaSample.Common.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.csproj.CopyComplete
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.Integration.AspNetCore\obj\Release\netcoreapp2.1\EdaSample.Integration.AspNetCore.pdb

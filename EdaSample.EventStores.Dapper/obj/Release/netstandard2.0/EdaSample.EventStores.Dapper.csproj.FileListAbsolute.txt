@@ -1,0 +1,12 @@
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.csprojAssemblyReference.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.AssemblyInfoInputs.cache
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.AssemblyInfo.cs
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\bin\Release\netstandard2.0\EdaSample.EventStores.Dapper.deps.json
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\bin\Release\netstandard2.0\EdaSample.EventStores.Dapper.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\bin\Release\netstandard2.0\EdaSample.EventStores.Dapper.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\bin\Release\netstandard2.0\EdaSample.Common.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\bin\Release\netstandard2.0\EdaSample.Common.pdb
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.csproj.CopyComplete
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.dll
+C:\Users\60558\Desktop\EventStudy\QccyWeServiceApi\EdaSample.EventStores.Dapper\obj\Release\netstandard2.0\EdaSample.EventStores.Dapper.pdb

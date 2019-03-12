@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EdaSample.Services.Common/1.0.0": {
+        "dependencies": {
+          "EdaSample.Common": "1.0.0",
+          "Microsoft.IdentityModel.Tokens": "5.2.0.0",
+          "System.IdentityModel.Tokens.Jwt": "5.2.0.0"
+        },
+        "runtime": {
+          "EdaSample.Services.Common.dll": {}
+        }
+      },
+      "EdaSample.Common/1.0.0": {
+        "runtime": {
+          "EdaSample.Common.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/5.2.0.0": {
+        "runtime": {
+          "Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.50129"
+          }
+        }
+      },
+      "System.IdentityModel.Tokens.Jwt/5.2.0.0": {
+        "runtime": {
+          "System.IdentityModel.Tokens.Jwt.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.50129"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdaSample.Services.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EdaSample.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.IdentityModel.Tokens/5.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IdentityModel.Tokens.Jwt/5.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
